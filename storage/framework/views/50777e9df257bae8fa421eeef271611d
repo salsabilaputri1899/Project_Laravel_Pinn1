@@ -1,0 +1,4 @@
+<h3>Data Berhasil di Input </h3>
+<p>Nama Konsumen: <?php echo e($customerr->name); ?> </p>
+<p>Email Konsumen: <?php echo e($customerr->email); ?> </p>
+<p>Pekerjaan Konsumen: <?php echo e($customerr->occupation); ?> </p>
